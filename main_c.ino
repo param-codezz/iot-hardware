@@ -5,8 +5,8 @@
 #include <Adafruit_Sensor.h>
 
 // WiFi credentials
-const char* ssid = "Redmi 12 5G";
-const char* password = "param'shotspot";
+const char* ssid = "<your ssid>";
+const char* password = "<your password>";
 
 // WebSocket client object
 WebSocketsClient webSocket;
